@@ -102,4 +102,4 @@ Cybersecurity-Incident-Response-Simulator/
 
 **Vishesh Nagdev**  
 Master of IT (Cybersecurity) — Macquarie University, Sydney  
-[LinkedIn](https://linkedin.com/in/YOUR-LINK-HERE) | [Email](mailto:visheshnagdev210@gmail.com)
+[LinkedIn](www.linkedin.com/in/vishesh-nagdev) | [Email](mailto:visheshnagdev210@gmail.com)
